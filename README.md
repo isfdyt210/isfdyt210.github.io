@@ -9,5 +9,7 @@
 
 
 ## Tercer Año
-* [Practicas Profesionalizantes](https://isfdyt210.github.io/practicas_profesionalizantes_3/)
-* [Espacio de Definicion Institucional 3](https://isfdyt210.github.io/espacio_de_definicion_institucional_3/)
+* [Practicas Profesionalizantes](
+  https://isfdyt210.github.io/practicas_profesionalizantes_3/)
+* [Espacio de Definicion Institucional 3](
+  https://isfdyt210.github.io/espacio_de_definicion_institucional_3/)
